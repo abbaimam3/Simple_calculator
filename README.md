@@ -2,9 +2,15 @@
 
 A Python program that performs basic arithmetic operations based on user input.
 
-## How to Run
-1. Clone this repository
-2. Run `python calculator.py`
-3. Follow the prompts to enter numbers and operation
+## Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ❌ Error handling for invalid inputs
+- 🛑 Division by zero protection
 
-## Example
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/simple-calculator.git
