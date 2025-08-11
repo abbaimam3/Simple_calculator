@@ -13,4 +13,4 @@ A Python program that performs basic arithmetic operations based on user input.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abbaimam3/simple-calculator.git
+   git clone https://github.com/abbaimam3/simple_calculator.git
