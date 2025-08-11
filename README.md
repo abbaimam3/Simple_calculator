@@ -1,16 +1,20 @@
-# Simple Calculator
+# Python Practice Programs
 
-A Python program that performs basic arithmetic operations based on user input.
+## 1. Simple Calculator  
+`calculator.py` - Performs basic math operations  
 
-## Features
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- ❌ Error handling for invalid inputs
-- 🛑 Division by zero protection
+## 2. Data Structures Practice  
+`python_tasks.py` - Menu-driven program covering:  
+- Lists (integer sum)  
+- Tuples (book names)  
+- Dictionaries (user info)  
+- Sets (common elements)  
+- List comprehension (odd-length words)  
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/abbaimam3/Simple_calculator.git
+## How to Run  
+```bash
+# Calculator
+python calculator.py
+
+# Data Structures Menu
+python python_tasks.py
